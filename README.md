@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Black & White Portfolio
 
 A responsive React portfolio with a black-and-white palette, a scroll-scrubbed animated background, and separate routes.
@@ -18,3 +19,6 @@ A responsive React portfolio with a black-and-white palette, a scroll-scrubbed a
 
 The background animation is the image sequence in `public/frames/` (001.webp to 238.webp). It plays as you scroll the whole site. To change it, replace the frames and update `FRAME_COUNT` in `src/main.jsx`.
 Social links on the Contact page are plain text; add URLs when ready.
+=======
+
+>>>>>>> 921e66d3e19fc39bd75e4b0b0b2e2805f2764d2b
